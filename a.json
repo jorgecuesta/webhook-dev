@@ -1,0 +1,14 @@
+{
+      "Title": "UpdateMe",
+      "Author": "mpickford",
+      "Organization": "59606f8e861f6d0c479f85c4",
+      "Additions": [],
+      "Subtractions": [],
+      "Overrides": [
+        {
+          "name": "RuleType",
+          "label": "Condition Type",
+          "dm_element": "Signature.SignatureRules.Rules.RuleType",
+        },
+      ],
+    }
